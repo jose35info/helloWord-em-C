@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752429025 source:c:\projetos\estudos & cursos\estudo em c\aula em c\calculadora\calculadora\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
